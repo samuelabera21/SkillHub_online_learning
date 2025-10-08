@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "slug": "complete-web-development-bootcamp",
+  "instructor": "Girma Ayitenew",
+    "instructorTitle": "Senior Full-Stack Developer",
+    "price": 89.99,
+    "originalPrice": 199.99,
+    "rating": 4.8,
+    "reviewCount": 12453,
+    "students": 45230,
+    "category": "Web Development",
+    "level": "Beginner",
+    "duration": "42 hours",
+  "image": "/images/girma.jpg",
+    "description": "Master web development from scratch with HTML, CSS, JavaScript, React, Node.js, and more. Build real-world projects and launch your career as a developer.",
+    "whatYouLearn": [
+      "Build responsive websites with HTML5 and CSS3",
+      "Master JavaScript and modern ES6+ features",
+      "Create dynamic web apps with React",
+      "Build backend APIs with Node.js and Express",
+      "Work with databases like MongoDB",
+      "Deploy applications to production"
+    ],
+    "curriculum": [
+      {
+        "section": "Introduction to Web Development",
+        "lectures": 8,
+        "duration": "1h 30m"
+      },
+      {
+        "section": "HTML & CSS Fundamentals",
+        "lectures": 15,
+        "duration": "3h 45m"
+      },
+      {
+        "section": "JavaScript Essentials",
+        "lectures": 22,
+        "duration": "5h 20m"
+      },
+      {
+        "section": "React Development",
+        "lectures": 28,
+        "duration": "7h 15m"
+      },
+      {
+        "section": "Backend with Node.js",
+        "lectures": 20,
+        "duration": "6h 30m"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Python for Data Science and Machine Learning",
+    "slug": "python-data-science-machine-learning",
+  "instructor": "Sebsbe Alemu",
+    "instructorTitle": "Data Scientist & ML Engineer",
+    "price": 94.99,
+    "originalPrice": 179.99,
+    "rating": 4.9,
+    "reviewCount": 8932,
+    "students": 32145,
+    "category": "Data Science",
+    "level": "Intermediate",
+    "duration": "38 hours",
+  "image": "/images/sebsbe.jpg",
+    "description": "Learn Python programming and dive deep into data science, machine learning, and AI. Work with real datasets and build predictive models.",
+    "whatYouLearn": [
+      "Python programming fundamentals",
+      "Data analysis with Pandas and NumPy",
+      "Data visualization with Matplotlib and Seaborn",
+      "Machine learning algorithms and techniques",
+      "Deep learning with TensorFlow and Keras",
+      "Real-world data science projects"
+    ],
+    "curriculum": [
+      {
+        "section": "Python Basics",
+        "lectures": 12,
+        "duration": "2h 45m"
+      },
+      {
+        "section": "Data Analysis with Pandas",
+        "lectures": 18,
+        "duration": "4h 30m"
+      },
+      {
+        "section": "Machine Learning Fundamentals",
+        "lectures": 25,
+        "duration": "6h 15m"
+      },
+      {
+        "section": "Deep Learning",
+        "lectures": 20,
+        "duration": "5h 45m"
+      }
+    ]
+  
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Masterclass",
+    "slug": "ui-ux-design-masterclass",
+  "instructor": "Abebe Gecha",
+    "instructorTitle": "Lead Product Designer",
+    "price": 79.99,
+    "originalPrice": 149.99,
+    "rating": 4.7,
+    "reviewCount": 6721,
+    "students": 28934,
+    "category": "Design",
+    "level": "All Levels",
+    "duration": "28 hours",
+  "image": "/images/abebe.jpg",
+    "description": "Master the art of UI/UX design with Figma. Learn design thinking, user research, prototyping, and create stunning interfaces.",
+    "whatYouLearn": [
+      "Design thinking and user-centered design",
+      "User research and persona creation",
+      "Wireframing and prototyping in Figma",
+      "Visual design principles and typography",
+      "Interaction design and micro-interactions",
+      "Portfolio-ready design projects"
+    ],
+    "curriculum": [
+      {
+        "section": "Introduction to UI/UX",
+        "lectures": 10,
+        "duration": "2h 15m"
+      },
+      {
+        "section": "User Research",
+        "lectures": 12,
+        "duration": "3h 00m"
+      },
+      {
+        "section": "Figma Mastery",
+        "lectures": 20,
+        "duration": "5h 30m"
+      },
+      {
+        "section": "Design Projects",
+        "lectures": 15,
+        "duration": "4h 45m"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Complete Course",
+    "slug": "digital-marketing-complete-course",
+  "instructor": "Rahel Alemu",
+    "instructorTitle": "Marketing Strategist",
+    "price": 69.99,
+    "originalPrice": 139.99,
+    "rating": 4.6,
+    "reviewCount": 5432,
+    "students": 19876,
+    "category": "Marketing",
+    "level": "Beginner",
+    "duration": "32 hours",
+  "image": "/images/rahel.jpg",
+    "description": "Learn SEO, social media marketing, email marketing, content marketing, and analytics. Grow your business or start a marketing career.",
+    "whatYouLearn": [
+      "SEO and search engine marketing",
+      "Social media marketing strategies",
+      "Email marketing campaigns",
+      "Content marketing and copywriting",
+      "Google Analytics and data analysis",
+      "Paid advertising (Google Ads, Facebook Ads)"
+    ],
+    "curriculum": [
+      {
+        "section": "Marketing Fundamentals",
+        "lectures": 8,
+        "duration": "2h 00m"
+      },
+      {
+        "section": "SEO Mastery",
+        "lectures": 16,
+        "duration": "4h 30m"
+      },
+      {
+        "section": "Social Media Marketing",
+        "lectures": 18,
+        "duration": "5h 00m"
+      },
+      {
+        "section": "Analytics & Optimization",
+        "lectures": 12,
+        "duration": "3h 30m"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development with React Native",
+    "slug": "mobile-app-development-react-native",
+  "instructor": "Nigst Gesese",
+    "instructorTitle": "Mobile Developer",
+    "price": 84.99,
+    "originalPrice": 169.99,
+    "rating": 4.8,
+    "reviewCount": 4521,
+    "students": 15678,
+    "category": "Mobile Development",
+    "level": "Intermediate",
+    "duration": "35 hours",
+  "image": "/images/nigist.jpg",
+    "description": "Build native iOS and Android apps using React Native. Learn navigation, state management, APIs, and publish to app stores.",
+    "whatYouLearn": [
+      "React Native fundamentals",
+      "Navigation and routing",
+      "State management with Redux",
+      "Working with APIs and databases",
+      "Native device features (camera, GPS, etc.)",
+      "Publishing to App Store and Google Play"
+    ],
+    "curriculum": [
+      {
+        "section": "React Native Basics",
+        "lectures": 14,
+        "duration": "3h 30m"
+      },
+      {
+        "section": "Building UI Components",
+        "lectures": 16,
+        "duration": "4h 15m"
+      },
+      {
+        "section": "Navigation & State",
+        "lectures": 18,
+        "duration": "5h 00m"
+      },
+      {
+        "section": "Advanced Features",
+        "lectures": 15,
+        "duration": "4h 30m"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "AWS Cloud Practitioner Certification",
+    "slug": "aws-cloud-practitioner-certification",
+  "instructor": "Hiwot Alemu",
+    "instructorTitle": "Cloud Architect",
+    "price": 74.99,
+    "originalPrice": 149.99,
+    "rating": 4.7,
+    "reviewCount": 7654,
+    "students": 23456,
+    "category": "Cloud Computing",
+    "level": "Beginner",
+    "duration": "25 hours",
+  "image": "/images/hiwot.jpg",
+    "description": "Prepare for the AWS Cloud Practitioner certification. Learn cloud concepts, AWS services, security, and best practices.",
+    "whatYouLearn": [
+      "Cloud computing fundamentals",
+      "AWS core services (EC2, S3, RDS, etc.)",
+      "AWS security and compliance",
+      "Pricing and billing",
+      "Cloud architecture best practices",
+      "Exam preparation and practice tests"
+    ],
+    "curriculum": [
+      {
+        "section": "Cloud Concepts",
+        "lectures": 10,
+        "duration": "2h 30m"
+      },
+      {
+        "section": "AWS Core Services",
+        "lectures": 20,
+        "duration": "6h 00m"
+      },
+      {
+        "section": "Security & Compliance",
+        "lectures": 12,
+        "duration": "3h 30m"
+      },
+      {
+        "section": "Exam Preparation",
+        "lectures": 8,
+        "duration": "2h 15m"
+      }
+    ]
+  }
+]
