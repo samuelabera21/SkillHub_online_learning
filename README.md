@@ -137,7 +137,5 @@ Deploy to Vercel (recommended) by pushing to GitHub and importing your repositor
 - Advanced search and filtering
 
 
-## License
 
-MIT License - free to use for personal or commercial purposes.
 
