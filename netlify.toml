@@ -1,0 +1,12 @@
+[build]
+  command = "pnpm build"
+  publish = ".next"
+  functions = ".netlify/functions"
+  environment = { NEXT_TELEMETRY_DISABLED = "1" }
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[dev]
+  command = "pnpm dev"
+  port = 3000
